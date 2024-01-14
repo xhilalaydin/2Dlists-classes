@@ -1,0 +1,18 @@
+Ali Eren;Ozer;1500;14A
+Ahmet;Yuksel;500;15C
+Ebru;Kose Tas;1100;09B
+Murat;Yalcin;3100;04C
+Zehra;Aksoy;1500;18D
+Fadime;Turan;1500;11A
+Umran;Sen;870;A02
+Ruya;Yilmaz;1140;08D
+Omer;Ates;4600;21F
+Aysel;Keskin;2280;20F
+Yasar;Yildiz;8100;01C
+Meryem Alya;Demir;2500;15D  
+Şahnur;Ozdemir;350;22B
+Aleyna;Ozturk;1950;215
+Betul;Cakir;4150;21C
+Melek;Polat;1800;07C
+Fadime;Gunes;1850;16F
+Furkan;Yuksel;2670;02D
